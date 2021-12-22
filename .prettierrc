@@ -1,0 +1,12 @@
+{
+  "arrowParens": "avoid",
+  "cursorOffset": -1,
+  "embeddedLanguageFormatting": "auto",
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "strict",
+  "semi": true,
+  "printWidth": 120,
+  "trailingComma": "all",
+  "proseWrap": "preserve",
+  "singleQuote": true
+}
